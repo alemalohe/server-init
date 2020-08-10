@@ -13,7 +13,7 @@ os.system("chmod 700 ~/.ssh")
 
 print("\nsudo nano authorized_keys and then paste the public key from under Comment -> to the end with ==")
 print("example")
-print("\nssh-rsa AAAB3NzaC1yc2EAAAABJQAAAQEAuAxkZNgIOFPV6g6bqxK0J9mKqsZZjTqTKpUJqs5zvO4TDUeqVb1kFuXFW1HBD+lgpo+4Z0uTJPSzDfuxxFSwSZAzJi4yXBEjsSEiLF3+LoQm7mswTXLI8ev9US9JNMS6vM5oxn5Yfwx9J5HZjFfalASpILgX94PWqppzJtGccehIaMSxeiAYBi7UhP18rzXcPfDAVCRd8dtrkDNSvSR7grhleHfQxL8I+NRrKe5ZGnsWW5vPE")
+print("\nssh-rsa AAAB3NzaC1yc2EAAAABJQAAAQEXLI8ev9US9JNMS6vM5oxn5Yfwx9J5HZjFfalASpILgX94PWqppzJtGccehIaMSxeiAYBi7UhP18rzXcPfDAVCRd8dtrkDNSvSR7grhleHfQxL8I+NRrKe5ZGnsWW5vPE")
 
 input("/nPress Enter to continue...")
 
